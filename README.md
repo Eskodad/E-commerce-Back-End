@@ -6,6 +6,7 @@
 - [Challenge](#challenge)
 - [User Story](#user-story)
 - [Acceptance Critiera](#acceptance-criteria)
+- [GitHub Repository](#github-repository)
 
 ### Challenge:
 
@@ -30,5 +31,9 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 > THEN the data for each of these routes is displayed in a formatted JSON\
 > WHEN I test API POST, PUT, and DELETE routes in Insomnia Core\
 > THEN I am able to successfully create, update, and delete data in my database
+
+## GitHub Repository
+
+https://github.com/Eskodad/E-commerce-Back-End
 
 # E-commerce-Back-End
