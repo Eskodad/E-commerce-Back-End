@@ -1,17 +1,17 @@
 {
-    "name": "E-c0mmerce-Back-End",
+    "name": "E-commerce-Back-End",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
     "scripts": {
-      "test": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      "test": "https://github.com/Eskodad/E-commerce-Back-End"
       "start": "node server.js",
       "watch": "nodemon server.js",
       "seed": "node seeds/index.js"
     },
     "repository": {
       "type": "git",
-      "url": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      "url": "https://github.com/Eskodad/E-commerce-Back-End"
     },
     "keywords": [],
     "author": "",
