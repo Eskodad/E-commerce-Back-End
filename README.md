@@ -38,6 +38,8 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 
 https://user-images.githubusercontent.com/77806148/120268792-1cc71e00-c26c-11eb-80f2-d7a56a129fd3.mov
 
+https://user-images.githubusercontent.com/77806148/120269734-04f09980-c26e-11eb-9205-e8a8e02286d8.mov
+
 
 
 ## GitHub Repository
