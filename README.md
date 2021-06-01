@@ -32,12 +32,6 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 > WHEN I test API POST, PUT, and DELETE routes in Insomnia Core\
 > THEN I am able to successfully create, update, and delete data in my database
 
-## Demo
-
-![Top-Page-Area](./assets/product routes.mov?raw=true "Top-Page-Area")
-
-![Top-Page-Area](./assets/tags routes.mov?raw=true "Top-Page-Area")
-
 ## GitHub Repository
 
 https://github.com/Eskodad/E-commerce-Back-End
