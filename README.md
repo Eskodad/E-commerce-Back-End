@@ -6,6 +6,7 @@
 - [Challenge](#challenge)
 - [User Story](#user-story)
 - [Acceptance Critiera](#acceptance-criteria)
+- [Demo](#demo)
 - [GitHub Repository](#github-repository)
 
 ### Challenge:
@@ -31,6 +32,13 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 > THEN the data for each of these routes is displayed in a formatted JSON\
 > WHEN I test API POST, PUT, and DELETE routes in Insomnia Core\
 > THEN I am able to successfully create, update, and delete data in my database
+
+
+## Demo
+
+https://user-images.githubusercontent.com/77806148/120268792-1cc71e00-c26c-11eb-80f2-d7a56a129fd3.mov
+
+
 
 ## GitHub Repository
 
