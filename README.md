@@ -34,7 +34,8 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 
 ## Demo
 
-![Product Routes](./assets/product routes.mov)
+![Top-Page-Area](./assets/product routes.mov?raw=true "Top-Page-Area")
+![Top-Page-Area](./assets/tags routes.mov?raw=true "Top-Page-Area")
 
 ## GitHub Repository
 
